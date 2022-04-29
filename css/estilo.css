@@ -57,3 +57,7 @@ footer div {
   max-width: 1372px;
   margin: 0 auto;
 }
+/* Specific main */
+main > picture.main > img {
+  width: 100%;
+}
